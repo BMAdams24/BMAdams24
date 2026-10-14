@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <imag height="170em" src="./profile/top-langs.svg"/>
+  <img height="170em" src="./profile/top-langs.svg"/>
 </p>
 
 <p align="center">
@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <imag height="170em" src=".profile/top-langs-no-c.svg"/>
+  <img height="170em" src=".profile/top-langs-no-c.svg"/>
 </p>
