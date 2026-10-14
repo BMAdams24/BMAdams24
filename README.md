@@ -5,7 +5,11 @@
 </p>
 
 <p align="center">
-  <img height="170em" src="./profile/top-langs.svg"/>
+  <img
+    height="170"
+    src="./profile/top-langs.svg"
+    alt="Most used programming languages"
+  />
 </p>
 
 <p align="center">
@@ -13,5 +17,9 @@
 </p>
 
 <p align="center">
-  <img height="170em" src=".profile/top-langs-no-c.svg"/>
+  <img
+    height="170"
+    src="./profile/top-langs-no-c.svg"
+    alt="Most used programming languages excluding selected languages"
+  />
 </p>
