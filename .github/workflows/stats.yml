@@ -31,7 +31,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: "username=jfmedina05&layout=compact&theme=transparent&hide_border=true"
+          options: "username=BMAdams24&layout=compact&theme=transparent&hide_border=true&hide=C"
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           
